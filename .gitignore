@@ -1,0 +1,6 @@
+*.sh
+*.exe
+*.log
+*.tmp
+*.temp
+*.temp/
